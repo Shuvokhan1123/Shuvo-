@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "🆃🅾🅼★🅱🅾🆃",
+  "BOTNAME": "Voda VaiRal",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
@@ -17,8 +17,8 @@
     ""
   ],
   "ADMINBOT": [
+    "61559798099987",
     "",
-    "61560834278461",
     "61562409612166",
     "61561175294315",
     ""
